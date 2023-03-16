@@ -1,0 +1,12 @@
+{
+    "name": "crypto-donation-test",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "parcel serve index.html"
+    },
+    "dependencies": {
+      "web3": "^1.6.1"
+    }
+  }
+  
